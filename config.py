@@ -1,2 +1,2 @@
 print("config")
-print("version3")
+print("version1")
